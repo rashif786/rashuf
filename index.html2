@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All Gear by Rashif</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #1A1A1A;
+      color: #FFFFFF;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #FF4C60;
+    }
+
+    p {
+      color: #CCCCCC;
+    }
+
+    .btn {
+      background-color: #FF4C60;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      cursor: pointer;
+      text-decoration: none;
+      margin-top: 20px;
+      display: inline-block;
+    }
+
+    .btn:hover {
+      background-color: #e14052;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>All Gear by Rashif</h1>
+  <p>Mobile accessories – earbuds, neckbands, chargers & more</p>
+
+  <a class="btn" href="https://wa.me/917208357397?text=Hi%20Rashif%2C%20I%20want%20to%20buy%20a%20product%20from%20All%20Gear" target="_blank">
+    Buy on WhatsApp
+  </a>
+
+</body>
+</html>
